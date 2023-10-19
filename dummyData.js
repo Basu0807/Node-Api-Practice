@@ -696,4 +696,4 @@ const foodData =[
 ]
     
 // module.exports = dummyData //default export
-module.exports={bollywoodData,hollywoodData,fitnessData,foodData} // name export
+module.exports={bollywoodData,hollywoodData,fitnessData,foodData,TecData} // name export
